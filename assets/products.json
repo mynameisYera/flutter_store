@@ -1,0 +1,39 @@
+
+[
+    {
+      "id": "1",
+      "name": "Tako",
+      "category": "Category 1",
+      "description": "The most tasty food in our restaurant Indian traditional food",
+      "price": 29.29,
+      "imageUrl": ["assets/india.jpg", "assets/india.jpg", "assets/india.jpg"],
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "name": "Borch",
+      "category": "Category 2",
+      "description": "Russian traditional food",
+      "price": 19.99,
+      "imageUrl": ["assets/rus.jpg", "assets/rus.jpg", "assets/rus.jpg"],
+      "rating": 4.5
+    },
+    {
+        "id": "2",
+        "name": "Pizza",
+        "category": "Category 2",
+        "description": "Italian traditional food",
+        "price": 19.99,
+        "imageUrl": ["assets/italian.jpg", "assets/italian.jpg", "assets/italian.jpg"],
+        "rating": 5.0
+    },
+    {
+        "id": "2",
+        "name": "Brozilon",
+        "category": "Category 2",
+        "description": "Brazilan traditional food",
+        "price": 19.99,
+        "imageUrl": ["assets/brazil.png", "assets/brazil.png", "assets/brazil.png"],
+        "rating": 2.0
+    }
+]
